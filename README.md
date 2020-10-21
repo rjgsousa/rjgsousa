@@ -1,8 +1,14 @@
 ### Hi there 👋
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjgsousa&theme=great-gatsby" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=rjgsousa&&show_icons=true&line_height=27&count_private=true" alt="Ricardo's GitHub Stats" />
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/rjgsousa/rjgsousa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjgsousa&theme=great-gatsby" />
+</a>
+<a href="https://github.com/rjgsousa/rjgsousa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=rjgsousa&&show_icons=true&line_height=27&count_private=true" alt="Ricardo's GitHub Stats" />
+</a>
 
 
 <!--
