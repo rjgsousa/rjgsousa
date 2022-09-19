@@ -21,7 +21,7 @@ Check my <a href="http://rsousa.co" target="_blank">webpage</a> for more.
 ## &#x1f4c8; GitHub Stats
 
 <div id="header" align="center">
-<img src="https://raw.githubusercontent.com/rjgsousa/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-<img src="https://raw.githubusercontent.com/rjgsousa/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+<img src="https://raw.githubusercontent.com/rjgsousa/github-stats/master/generated/overview.svg">
+<img src="https://raw.githubusercontent.com/rjgsousa/github-stats/master/generated/languages.svg">
 </div>
 
