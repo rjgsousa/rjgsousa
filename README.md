@@ -5,7 +5,7 @@ I am an accomplished Principal Scientist/Research Scientist who is passionate ab
 Check my <a href="http://rsousa.co" target="_blank">webpage</a> for more.
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Q9aBxHn9fTqKs/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/Q9aBxHn9fTqKs/giphy.gif" width="250"/>
   <div id="badges">
 	  <a href="https://www.linkedin.com/in/rjgsousa/" target="_blank">
 		  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -20,6 +20,8 @@ Check my <a href="http://rsousa.co" target="_blank">webpage</a> for more.
 
 ## &#x1f4c8; GitHub Stats
 
-![](https://raw.githubusercontent.com/rjgsousa/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/rjgsousa/github-stats/master/generated/languages.svg#gh-light-mode-only)
+<div id="header" align="center">
+<img src="https://raw.githubusercontent.com/rjgsousa/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+<img src="https://raw.githubusercontent.com/rjgsousa/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+</div>
 
